@@ -718,7 +718,7 @@ h2.blue-text {
     select the SVGs in the software section using the ID, tag name, and descendant selectors
 */
 /* ----- */
-#software a > svg {
+#software a svg {
     stroke: var(--dk-gray);
 }
 
